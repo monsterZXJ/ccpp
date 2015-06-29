@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1429547740 source:d:\monster\tree\main.cpp
+	<iostream>
+	"Node.h"
+
+1429547437 d:\monster\tree\include\node.h
+
